@@ -1,0 +1,9 @@
+node_modules
+dist
+dist-server
+.daylight-server*.mjs
+data/*.db
+.env
+test-results
+playwright-report
+.daylight-dependencies-*
